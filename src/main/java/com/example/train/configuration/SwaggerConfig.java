@@ -35,7 +35,7 @@ public class SwaggerConfig {
                 "Some custom description of API.",
                 "API V1",
                 "Terms of service",
-                new Contact("Yohan Nayanajith", "www.example.com", "yohannayanajith40@gmail.com"),
+                new Contact("Vinod Jayasooriya", "www.example.com", "vinodjayasooriya@gmail.com"),
                 "License of API", "API license URL", Collections.emptyList());
     }
 
